@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+scipy
+nltk
+matplotlib
+seaborn
+# Version 2 (Longformer) - run on Colab GPU
+transformers
+datasets
+torch
+accelerate
+# Version 3 (LLM prompting)
+langchain
+# plus the provider package you choose, e.g. langchain-openai or langchain-anthropic
+# Demo app
+streamlit

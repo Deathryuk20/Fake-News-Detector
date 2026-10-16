@@ -1,0 +1,12 @@
+# raw data is large; download from Kaggle instead
+data/raw/*
+!data/raw/.gitkeep
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.key
+# model checkpoints
+longformer/checkpoints/
+*.bin
+*.safetensors
